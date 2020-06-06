@@ -1,2 +1,1 @@
-# sarda-devesh.github.io
-Personal Website that reflects my projects and experiences 
+-Personal Website that reflects my projects and experiences, borrowed template from https://github.com/sproogen/modern-resume-theme
