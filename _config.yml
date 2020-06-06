@@ -16,9 +16,8 @@ linkedin_username: devesh-sarda-172aa9175
 # about_title: About Me
 about_profile_image: images/cover_photo_devesh.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Devesh and I am incoming University of Washington student planning to study computer science. I have gotten experience in CS through robotics, internships and participating in research.
+  Here is a quick summary of the information on this website: <mark>Resume</mark> (assets/Resume_DeveshSarda.pdf)
 
 # Projects Section
 # projects_title: Projects
