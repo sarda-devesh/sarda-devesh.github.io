@@ -1,9 +1,0 @@
-- layout: left 
-  name: Magnetic Pendulum
-  link: github.com/sarda-devesh/Magnetic_Pendulum
-  quote: >
-    A Magnetic Pendulum Simulator in <mark>VPython</mark>
-  description: | # this will include new lines to allow paragraphs
-    The program starts off with a single pendulum swinging around a fixed point and the user can added magnets at various locations.
-    Users can choose the type of magnets (attractive or repulsive based on the color) along the strength of the individual magnets. 
-    Users can adjust the starting energy by choosing the starting angle of the pendulum at the start of the program. 
