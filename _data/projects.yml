@@ -1,0 +1,51 @@
+- layout: left 
+  name: Magnetic Pendulum
+  link: https://github.com/sarda-devesh/Magnetic_Pendulum
+  quote: >
+    A Pendulum Simulator Made using <mark>VPython</mark>
+  description: | # this will include new lines to allow paragraphs
+    The program starts off with the user choosing the starting point of the pendulum from which the pendulum is launched. 
+    The user can then add magnets that either attract or repel the magnet on the pendulum along with choosing the location to add the new magnet.
+    The user can also adjust the relative strength of the magnet compared to the graviation field to adjust for various types of magnets. 
+
+- layout: left
+  name: Intersect APP
+  link: https://github.com/sarda-devesh/IntersectAPP
+  quote: >
+    An <mark>Android</mark> application made for team logistics
+  description: |
+     This is an mobile application that automates team logistics determination. The application utilizes the user's calendar and uploads that data
+     to a <mark>Google Firebase</mark>. It then utilizes the calendar data of all the team members to suggest a meeting time that works for all team members along
+     with a location that is the <mark>centroid</mark> of all the members. 
+
+- layout: left 
+  name: Secure Sticky Notes
+  link: https://github.com/sarda-devesh/SecureStickyNotes
+  quote: > 
+     An <mark>Python</mark> program for a sticky notes protected with facial recoginition
+  description: |
+      The program uses a <mark>Siamese Neural Network</mark> to match faces in the current incoming feed with the registered images of users in previous usages. 
+      The facial recongition of this program is similar to Face ID or Windows Hello in terms of usage. Once they log in, the users have a standard sticky notes which
+      was developed in <mark>OPENCV</mark>. 
+
+- layout: left 
+  name: Equation Solver 
+  link: https://github.com/sarda-devesh/EquationSolver
+  quote: >
+    A <mark>Python</mark> program that solves <mark>polynomial equations</mark> spoken by the user. 
+  description: |
+    The program starts off the user saying a equation which is captured using the <mark>SpeechRecongizer</mark> library
+    and later converted to a solvalble form using the <mark>sympy</mark>. The user also specifies the bound on which to operate on.
+    The program then later utilizes <mark>Newton's Method</mark> to generate solutions to the equation. 
+
+- layout: left
+  name: AutoGrader
+  link: https://github.com/sarda-devesh/TSAApplication
+  quote: > 
+      A <mark>Android</mark> application to automate the grading of FRQ Tests
+  description: | 
+      This was a mobile application I developed for the TSA National Competition. 
+      The application utilizes's Google's <mark>Optical Character Recognition</mark> library to convert handwriting to text. 
+      We then utilize this information to compare's student's answers to that of the teachers and automatically grade the student.
+      The data is stored on a <mark>Google Firebase</mark> so that the teacher can easily retreive it later. 
+      Our application <mark>7th place</mark> among about 350 applications at the national competition and <mark>1st</mark> at the state compeititon. 

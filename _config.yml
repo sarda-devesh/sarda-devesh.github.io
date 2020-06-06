@@ -16,7 +16,7 @@ linkedin_username: devesh-sarda-172aa9175
 # about_title: About Me
 about_profile_image: images/cover_photo_devesh.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Devesh and I am incoming University of Washington student planning to study computer science. I have gotten experience in CS through robotics, internships and participating in research.
+  Hi, my name's Devesh and I am incoming University of Washington student planning to study computer science. I have gotten experience in CS through <mark>robotics</mark>,<mark>internships</mark> and participating in <mark>research</mark>.
   Here is a quick summary of the information on this link: [Resume](https://1drv.ms/b/s!Arx8ctObhbGoj8UJHvRroQTN-1MXWw) 
 
 # Projects Section
@@ -27,15 +27,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Education Section
 # educaton_title: Education
-
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true

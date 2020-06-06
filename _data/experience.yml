@@ -1,9 +1,64 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: Makeability Lab
+  link: https://makeabilitylab.cs.washington.edu/
+  job_title: AI Intern
+  dates: July 2019 - September 2019
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Makeability Lab is focused on developing technology acessible to all
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    I was working on Project Sidewalk which tried to crowd source street accesibility. 
+    I conduced studies on improving, precision, recall and const savings by training various
+    learning models (like <mark>ResNet</mark>) to detect accesibility in cities. 
+    I also optimized library to get predictions from the neural network using <mark>memonization</mark> and multi-processing techniques to increase the processing speed  
+
+- layout: left
+  company: Riptide Robotics
+  link: https://riptide-robotics.org/
+  job_title: Lead Programming
+  dates: September 2018 - Present 
+  quote: > 
+     Riptide Robotics is a team that designs underwater robots for the MATE ROV Competition
+  description: |
+      I designed a custom user interface (<mark>PYQT</mark>) system to easily operate the robot at depths up to 16 ft underwater.  
+      I also utilized <mark>Gaussian elimination</mark> along with <mark>OPENCV</mark> to create an autonomous driver system with five degrees of freedom. 
+      Finally, I engineered machine learning models to detect benthic species and track the health of coral colonies using <mark>TensorFlow</mark>. 
+      Our team placed <mark>12th</mark> at the International ROV Competition and <mark>2nd</mark> at the PNW ROV Competition. 
+ 
+- layout: left
+  company: Catalyst Computer Science
+  link: https://forcatalyst.weebly.com/
+  jobs:
+     - title: President
+       dates: September 2019 - Present
+     - title: Lead Tutor
+       dates: September 2018 - September 2019
+  quote: > 
+     Catalyst is a program that introduces middle school students to Computer Science
+  description: |
+      Catalyst teaches approxiametly 60 middles school students in 4 different subjects: Python, HTML, Java, Ardunio. 
+      I manage the content and logistics for all the weekly classes while mentoring fellow tutors. I also created the website
+      and social media accounts of our organization and regularly update them. 
+
+- layout: left
+  company: SAP Concur
+  link: https://www.concur.com/
+  job_title: Mobile Intern
+  dates: November 2017 - February 2018
+  quote: >
+     SAP Concur is an company that provides travel and expense management services to business
+  description: |
+     I learned mobile application development using <mark>Android SDK</mark> and tooling through developing android applications from scratch. 
+     Our team won <mark>Best APP Award</mark> at the company hackathon for a location based TODO list integrated with Google Maps. 
+  
+- layout: left 
+  company: VEX Robotics
+  link: https://exothermicrobotics.org/
+  job_title: Lead Programming
+  dates: September 2016 - September 2018
+  quote: > 
+      VEX is a robotics competition where teams compete in teams to complete the yearly challenge
+  description: 
+      I developed libarries using <mark>ROBOTC</mark> to operate the robot using user input along with a <mark>cloosed loop correction</mark> system.
+      I also utilize multiple sensors including ultrasonic scanning along with multithreading to run the robot autonomously. 
+      Our team won <mark>Tournament Champions</mark> at the Exothermic Robotics Competition 2018. We also placed <mark>2nd</mark> at the VEX State Competition
+      and <mark>Tournament Champions</mark> at the Sunnyside Competition in 2017.
