@@ -1,0 +1,14 @@
+<div class="container projects-container">
+  <h3>{{ site.projects_title | default: "Projects" }}</h3>
+  {% for project in site.data.projects %}
+    {%- if project.image_url -%}
+      <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+        <img style="max-width: 250px; max-height: 175px" src = "{{project.image_url}}" alt = "{{project.name}}"/>
+      </div>
+    {%- endif -%}
+    <div class="{{ 'col-xs-12 ' }}{%- if project.image_url -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
+      {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
+    </div>
+  {% endfor %}
+</div>
+

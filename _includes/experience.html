@@ -1,0 +1,13 @@
+<div class="container experience-container">
+  <h3>{{ site.experience_title | default: "Experience" }}</h3>
+  {% for exp in site.data.experience %}
+    {%- if exp.image_url -%}
+      <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+        <img style="max-width: 275px; max-height: 175px" src = "{{exp.image_url}}" alt = "{{exp.name}}"/>
+      </div>
+    {%- endif -%}
+    <div class="{{ 'col-xs-12 ' }}{%- if exp.image_url -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
+      {% include {{ exp.layout | default: 'left' | append: ".html" }} item=exp %}
+    </div>
+  {% endfor %}
+</div>

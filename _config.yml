@@ -19,14 +19,15 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Devesh and I am incoming University of Washington student planning to study computer science. I have gotten experience in CS through <mark>robotics</mark>,<mark>internships</mark> and participating in <mark>research</mark>.
   Here is a quick summary of the information on this link: [Resume](https://1drv.ms/b/s!Arx8ctObhbGoj8UJHvRroQTN-1MXWw) 
 
-# Projects Section
-# projects_title: Projects
-
 # Experience Section
-# experience_title: Experience
+experience_title: Software Experinces
+
+# Projects Section
+projects_title: Projects
+
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # Footer
 footer_show_references: true

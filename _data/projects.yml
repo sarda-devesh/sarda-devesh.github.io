@@ -1,5 +1,6 @@
 - layout: left 
   name: Magnetic Pendulum
+  image_url: images/magnet_pen.png
   link: https://github.com/sarda-devesh/Magnetic_Pendulum
   quote: >
     A Pendulum Simulator Made using <mark>VPython</mark>
@@ -10,6 +11,7 @@
 
 - layout: left
   name: Intersect APP
+  image_url: images/intersect.png
   link: https://github.com/sarda-devesh/IntersectAPP
   quote: >
     An <mark>Android</mark> application made for team logistics
@@ -20,6 +22,7 @@
 
 - layout: left 
   name: Secure Sticky Notes
+  image_url: images/secure.jpg
   link: https://github.com/sarda-devesh/SecureStickyNotes
   quote: > 
      An <mark>Python</mark> program for a sticky notes protected with facial recoginition
@@ -31,6 +34,7 @@
 - layout: left 
   name: Equation Solver 
   link: https://github.com/sarda-devesh/EquationSolver
+  image_url: images/solver.png
   quote: >
     A <mark>Python</mark> program that solves <mark>polynomial equations</mark> spoken by the user. 
   description: |
@@ -41,6 +45,7 @@
 - layout: left
   name: AutoGrader
   link: https://github.com/sarda-devesh/TSAApplication
+  image_url: images/TSA.png
   quote: > 
       A <mark>Android</mark> application to automate the grading of FRQ Tests
   description: | 
