@@ -15,9 +15,10 @@ linkedin_username: devesh-sarda-172aa9175
 # About Section
 # about_title: About Me
 about_profile_image: images/cover_photo_devesh.jpg
+about_resume_link: assets/Resume_DeveshSarda.pdf
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Devesh and I am incoming University of Washington student planning to study computer science. I have gotten experience in CS through <mark>robotics</mark>,<mark>internships</mark> and participating in <mark>research</mark>.
-  Here is a quick summary of the information on this link: [Resume](https://1drv.ms/b/s!Arx8ctObhbGoj8UJHvRroQTN-1MXWw) 
+  Here is a quick summary of the information on this link:
 
 # Experience Section
 experience_title: Software Experinces
