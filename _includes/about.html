@@ -1,6 +1,9 @@
 <div class="container intro-container">
   <style>
-    .button {background-color: #008CBA;} 
+    .resume_button {
+      background-color: #008CBA; font-size: 20px; text-align:center; width: 150px; height: 50px;
+      margin: 0; position: absolute; left: 50%;-ms-transform: translateX(-50%);transform: translateX(-50%);
+    } 
   </style>
   <h3>{{ site.about_title | default: "About Me" }}</h3>
   <div class="row clearfix">
@@ -14,8 +17,7 @@
       {%- if site.about_resume_link -%}
         
         <form action = "{{site.about_resume_link}}" target = "_blank">
-           <button class="button" style="font-size : 20px; text-align:center; width: 100px; height: 50px;margin: 5px 350px" 
-           type="submit">Resume</button>
+           <button class="resume_button"  type="submit">Resume</button>
         </form>
       {%- endif -%}
     </div>
