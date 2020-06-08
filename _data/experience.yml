@@ -2,7 +2,7 @@
   company: Makeability Lab
   link: https://makeabilitylab.cs.washington.edu/
   job_title: AI Intern
-  image_url: images/sidewalk.png
+  image_url: images/sidewalk_logo.jpg
   dates: July 2019 - September 2019
   quote: >
     Makeability Lab is focused on developing technology acessible to all
@@ -48,19 +48,19 @@
   quote: >
      SAP Concur is an company that provides travel and expense management services to business
   description: |
-     I learned mobile application development using <mark>Android SDK</mark> and tooling through developing android applications from scratch. 
+     I learned mobile application development using <mark>Android SDK</mark> and tooling through developing android applications, like
+      a weather prediction system using Google, from scratch. 
      Our team won <mark>Best APP Award</mark> at the company hackathon for a location based TODO list integrated with Google Maps. 
   
 - layout: left 
   company: VEX Robotics
   link: https://exothermicrobotics.org/
   job_title: Lead Programming
-  image_url: images/exo.jpg
+  image_url: images/exo_large.png
   dates: September 2016 - September 2018
   quote: > 
-      VEX is a robotics competition where teams compete in teams to complete the yearly challenge
+      VEX is a robotics competition where teams try to effectively complete the yearly challenge
   description: 
       I developed libarries using <mark>ROBOTC</mark> to operate the robot using user input along with a <mark>cloosed loop correction</mark> system.
       I also utilize multiple sensors including ultrasonic scanning along with multithreading to run the robot autonomously. 
-      Our team won <mark>Tournament Champions</mark> at the Exothermic Robotics Competition 2018. We also placed <mark>2nd</mark> at the VEX State Competition
-      and <mark>Tournament Champions</mark> at the Sunnyside Competition in 2017.
+      Our team won <mark>Tournament Champions</mark> at the Exothermic Robotics Competition 2018. We also placed <mark>2nd</mark> at the VEX State Competition 2017.
