@@ -1,4 +1,43 @@
 - layout: left 
+  name: Discord Event Bot 
+  image_url: images/Bot.png
+  link: https://github.com/sarda-devesh/DiscordEventBot
+  quote: > 
+    A Discord Bot to coordinate group events and server activities 
+  description: 
+    I utilized the <mark>Discord API</mark> for Python to write the different commands for the bot. The discord bot has commands
+    so that the users of a server can create/delete an event, edit an event, join/leave events, and if they indicated that they are
+    intrested in a specific event they get a private message reminding them that thier event is about to begin. We allow users to get information
+    about upcoming events, and utilized the <mark>datetime</mark> library to ensure that events accomidate for server members in different timezones.
+   
+- layout: left
+  name: Edify
+  image_url: images/Edify.png
+  link: https://devpost.com/software/zoom-analyser
+  quote: > 
+    A machine learning tool to help educators gather insight about class engagement
+  description: |
+    We hosted our website on Horuku which uploads the video and audio files to a <mark>Google Cloud Storage bucket</mark>
+    and sends a HTTP request to a <mark>Google Cloud Function</mark> with a randomly generated request id.
+    We utilized <mark>Latent Dirichlet Allocation</mark> using the sktlearn libary, Nltk's <mark>Multinomial Naive Bayes</mark>
+    library along with <mark>IBM Watson's Speech API</mark> on the audio and chat transcripts to extract student questions and group
+    them into relevant categories. Finally, we performed facial recognition using <mark>OPENCV</mark> along with <mark>Siamese Neural Network</mark>
+    to track student's attention levels and combine these images with student's ID to automatically take attendace.
+    This project received funding from <mark>Google Cloud COVID 19 Hackathon Fund</mark> to continue the further developement of the project. 
+
+- layout: left 
+  name: GCS Navigator
+  image_url: images/CloudStorage.png
+  link: https://github.com/sarda-devesh/GCSNavigator
+  quote: >
+    A library to easily replacte a GCS Bucket locally
+  description: |
+     This is an library to download files from <mark>Google Cloud Storage</mark> bucket to the local machine.
+     The constructor takes in the path to the service key json file and uses the <mark>GCS Blob Object</mark> to
+     allow the users to download specific files, folders, and even entire buckets while preversing the file structure
+     of the originial <mark>storage bucket</mark>. 
+
+- layout: left 
   name: Magnetic Pendulum
   image_url: images/magnet_pen.png
   link: https://github.com/sarda-devesh/Magnetic_Pendulum
