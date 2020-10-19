@@ -32,10 +32,10 @@
   quote: >
     A library to easily replacte a GCS Bucket locally
   description: |
-     This is an library to download files from <mark>Google Cloud Storage</mark> bucket to the local machine.
-     The constructor takes in the path to the service key json file and uses the <mark>GCS Blob Object</mark> to
-     allow the users to download specific files, folders, and even entire buckets while preversing the file structure
-     of the originial <mark>storage bucket</mark>. 
+    This is an library to download files from <mark>Google Cloud Storage</mark> bucket to the local machine.
+    The constructor takes in the path to the service key json file and uses the <mark>GCS Blob Object</mark> to
+    allow the users to download specific files, folders, and even entire buckets while preversing the file structure
+    of the originial <mark>storage bucket</mark>. 
 
 - layout: left 
   name: Magnetic Pendulum

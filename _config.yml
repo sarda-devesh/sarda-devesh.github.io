@@ -14,7 +14,7 @@ linkedin_username: devesh-sarda-172aa9175
 
 # About Section
 # about_title: About Me
-about_profile_image: images/cover_photo_devesh.jpg
+about_profile_image: images/Profile_Image.jpg
 darkmode: true
 about_resume_link: assets/Resume_DeveshSarda.pdf
 about_content: | # this will include new lines to allow paragraphs
