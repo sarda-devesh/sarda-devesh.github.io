@@ -1,4 +1,33 @@
 - layout: left
+  company: UW Hyperloop
+  link: https://www.hyperloop.io/
+  job_title: Controls and Power Engineer
+  dates: October 2020 - Present
+  image_url: images/UW_Hyperloop.jpg
+  quote: > 
+    Advancing the future of transportation by developing pods designs for the Hyperloop
+  description: |
+    I am currently working on creating an proportional–integral–derivative (<mark>PID</mark>) for
+    the new Linear Induction Motors that the team it utilizing. The system will utilize Electronic
+    Speed Controllers (<mark>ESC</mark>) along with EMF, Voltage, and Amperage sensors to control all
+    the LIM motors through a Linux system. 
+
+- layout: left
+  company: Ubicomp Lab
+  link: https://ubicomplab.cs.washington.edu/
+  job_title: Research Intern
+  image_url: images/UbiCompLab.jpg
+  dates: July 2020 - Present
+  quote: >
+    The Ubiquitous Computing Lab develops innovative sensing systems for applications in health and sustaniability
+  description: | 
+    I am currently working on project RDT Process Control, a project that develop libraries to guide users through and
+    track thier progress in performing point of care <mark>Rapid Diagonstics Test</mark>. I have developed backend computer
+    vision tools in Python, utilizing algorithm such as the <mark>Lucas Kanade Optical Flow Tracker</mark>, to track the various
+    steps of the process. I am currently porting those libraries into <mark>Android</mark> to develop a mobile application
+    which the users can easily interact with. 
+
+- layout: left
   company: Makeability Lab
   link: https://makeabilitylab.cs.washington.edu/
   job_title: AI Intern

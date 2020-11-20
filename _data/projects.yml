@@ -1,3 +1,18 @@
+- layout: left
+  name: FaceMe
+  image_url: images/facemelogo.jpg
+  link: https://devpost.com/software/facecentric
+  quote: >
+    Makes connecting with loved ones easier by improving video call accessibility
+  description: 
+    Face Centric utilizes <mark>OPENCV</mark> along with <mark>Google Cloud Vision API</mark> to 
+    detect user's faces and provide visual and audio cues to help all the users in the the video call 
+    center themselves and provide audio cues when they leave and enter the screen. Additionally, we
+    utilized <mark>Google Cloud Speech API</mark> along with <mark>PyAudio</mark> to allow users to say 
+    audio commands such as "Mute Me", "Start my Video" to navigate the cluttered UI's. Our project won the
+    <mark>First Timer Recognition Award</mark> and the <mark>Best Use of Google Cloud Award</mark>.   
+
+
 - layout: left 
   name: Discord Event Bot 
   image_url: images/Bot.png
